@@ -23,7 +23,7 @@ section.filters button  {
 
 	}
 section.filters button:hover{
-	opacity: 90%;
+	opacity: 0.9;
 }
 .locations{
 	height: 100%;
@@ -40,8 +40,9 @@ section.filters button:hover{
 	width: 25%;
 	text-align: left;
 	margin-left: 30px;
+	margin: auto;
 	float: left;
-
+	align-items: content;
 }
 
 h3{
